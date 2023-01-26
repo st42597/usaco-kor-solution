@@ -24,16 +24,24 @@ USACO는 미국정보올림피아드로 미국 중, 고등학생을 대상으로
 - 날마다 실력 편차가 크게나는 CP(Competitive Programmer)들
 - 문제를 고민하고 깨지면서 느끼는 고통마저 즐거운 변태들
 
-## 문제 리스트
+## 난이도별 링크
 
-| 대회 일자 | Bronze | Silver |
-| --- | --- | --- |
-| USACO 2022 December Contest |  |  |
-| USACO 2022 US Open Contest |  |  |
-| USACO 2022 February Contest |  |  |
-| USACO 2022 January Contest |  |  |
-| USACO 2021 December Contest |  |  |
-| USACO 2021 US Open Contest |  |  |
-| USACO 2021 February Contest |  |  |
-| USACO 2021 January Contest |  |  |
-| USACO 2020 December Contest |  |  |
+<a href="https://github.com/st42597/usaco-kor-solution/tree/main/Bronze">
+    <img src="./img/medal_bronze.png" />
+    Bronze
+</a>
+
+<a href="https://github.com/st42597/usaco-kor-solution/tree/main/Silver">
+    <img src="./img/medal_silver.png" />
+    Silver
+</a>
+
+<a href="https://github.com/st42597/usaco-kor-solution/tree/main/Gold">
+    <img src="./img/medal_gold.png" />
+    Gold
+</a>
+
+<a href="https://github.com/st42597/usaco-kor-solution/tree/main/Platinum">
+    <img src="./img/medal_platinum.png" />
+    Platinum
+</a>
