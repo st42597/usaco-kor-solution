@@ -10,7 +10,7 @@
 
 ❗**주의**: 상업적, 영리적 이용을 금합니다.
 
-## 난이도별 
+## 난이도별 문제집
 
 <a href="https://github.com/st42597/usaco-kor-solution/tree/main/Bronze">
     <img src="./img/medal_bronze.png" />
