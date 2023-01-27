@@ -4,7 +4,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 2022 December | S4 G4 G1 | 그리디, 정렬, 문자열, 시뮬레이션 | [백준 링크](https://www.acmicpc.net/category/743) | [해설 링크](./2022%20December) | ![](https://img.shields.io/static/v1?label=progress&message=100%&color=brightgreen) |
 | 2022 US Open | G3 G5 G2 |  | [백준 링크](https://www.acmicpc.net/category/655) | 해설 링크 |  |
-| 2022 February | G3 G4 S4 |  | [백준 링크](https://www.acmicpc.net/category/649) | 해설 링크 |  |
+| 2022 February | G3 G4 S4 |  | [백준 링크](https://www.acmicpc.net/category/649) | [해설 링크](./2022%20February) | ![](https://img.shields.io/static/v1?label=progress&message=66%&color=brightgreen) |
 | 2022 January | S4 S3 G1 |  | [백준 링크](https://www.acmicpc.net/category/645) | 해설 링크 |  |
 | 2021 December | G4 G3 G4 |  | [백준 링크](https://www.acmicpc.net/category/612) | 해설 링크 |  |
 | 2021 US Open | G5 S2 G3 |  | [백준 링크](https://www.acmicpc.net/category/531) | 해설 링크 |  |
