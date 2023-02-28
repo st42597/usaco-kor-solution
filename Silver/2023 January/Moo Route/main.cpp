@@ -37,8 +37,8 @@ int main(){
                 cout << 'L';
             }else{
                 arr[pos++]--;
-                cout << 'R';
                 dir = 1;
+                cout << 'R';
             }
         }
     }
