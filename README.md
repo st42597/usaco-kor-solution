@@ -12,29 +12,21 @@
 
 ## 난이도별 문제집
 
-<a href="https://github.com/st42597/usaco-kor-solution/tree/main/Bronze">
-    <img src="./img/medal_bronze.png" />
-    Bronze
-</a>
+| 난이도 | 출제 내용 | 해설 |
+| ------ | --------- | ---- |
 
-<a href="https://github.com/st42597/usaco-kor-solution/tree/main/Silver">
-    <img src="./img/medal_silver.png" />
-    Silver
-</a>
-
-<a href="https://github.com/st42597/usaco-kor-solution/tree/main/Gold">
-    <img src="./img/medal_gold.png" />
-    Gold
-</a>
-
-<a href="https://github.com/st42597/usaco-kor-solution/tree/main/Platinum">
-    <img src="./img/medal_platinum.png" />
-    Platinum
-</a>
+| <img src="./img/medal_bronze.png" />
+Bronze | 브루트포스, 그리디를 사용한 문제 해결 | [해설 링크](./tree/main/Bronze) |
+|<img src="./img/medal_silver.png" />
+Silver | 다이나믹 프로그래밍, 이분 탐색, 그래프 등을 사용한 문제 해결 | [해설 링크](./tree/main/Silver) |
+|<img src="./img/medal_gold.png" />
+Gold | 심화 알고리즘/자료구조를 사용한 문제 해결 | [해설 링크](./tree/main/Gold) |
+| <img src="./img/medal_platinum.png" />
+Platinum| 그냥 어려움 | [해설 링크](./tree/main/Platinum) |
 
 ## USACO?
 
-USACO는 미국정보올림피아드로 미국 중, 고등학생을 대상으로 한 Competitive Programming 대회입니다. 정해진 시간 동안 정확하고 효율적인 코드를 작성하는 것을 요구하며, 난이도에 따라 Bronze, Silver, Gold, Platinum으로 나누어져 있습니다. 
+USACO는 미국정보올림피아드로 미국 중, 고등학생을 대상으로 한 Competitive Programming 대회입니다. 정해진 시간 동안 정확하고 효율적인 코드를 작성하는 것을 요구하며, 난이도에 따라 Bronze, Silver, Gold, Platinum으로 나누어져 있습니다.
 
 ## USACO를 풀어야되는 이유
 
