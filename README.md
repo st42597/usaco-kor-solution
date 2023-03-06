@@ -12,17 +12,12 @@
 
 ## 난이도별 문제집
 
-| 난이도 | 출제 내용 | 해설 |
-| ------ | --------- | ---- |
-
-| <img src="./img/medal_bronze.png" />
-Bronze | 브루트포스, 그리디를 사용한 문제 해결 | [해설 링크](./tree/main/Bronze) |
-|<img src="./img/medal_silver.png" />
-Silver | 다이나믹 프로그래밍, 이분 탐색, 그래프 등을 사용한 문제 해결 | [해설 링크](./tree/main/Silver) |
-|<img src="./img/medal_gold.png" />
-Gold | 심화 알고리즘/자료구조를 사용한 문제 해결 | [해설 링크](./tree/main/Gold) |
-| <img src="./img/medal_platinum.png" />
-Platinum| 그냥 어려움 | [해설 링크](./tree/main/Platinum) |
+| 난이도                                         | 출제 내용                                                    | 해설                              |
+| ---------------------------------------------- | ------------------------------------------------------------ | --------------------------------- |
+| <img src="./img/medal_bronze.png" />Bronze     | 브루트포스, 그리디를 사용한 문제 해결                        | [해설 링크](./tree/main/Bronze)   |
+| <img src="./img/medal_silver.png" />Silver     | 다이나믹 프로그래밍, 이분 탐색, 그래프 등을 사용한 문제 해결 | [해설 링크](./tree/main/Silver)   |
+| <img src="./img/medal_gold.png" />Gold         | 심화 알고리즘/자료구조를 사용한 문제 해결                    | [해설 링크](./tree/main/Gold)     |
+| <img src="./img/medal_platinum.png" />Platinum | 그냥 어려움                                                  | [해설 링크](./tree/main/Platinum) |
 
 ## USACO?
 
