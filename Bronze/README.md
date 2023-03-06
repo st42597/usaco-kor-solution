@@ -2,7 +2,8 @@
 
 | 대회 시즌     | 난이도   | 태그                                                  | 백준                                              | 해설                            | 상태                                                                                |
 | ------------- | -------- | ----------------------------------------------------- | ------------------------------------------------- | ------------------------------- | ----------------------------------------------------------------------------------- |
-| 2023 January  | S1 S3 B1 | 그리디, 문자열, 브루트포스, 백트래킹                  | [백준 링크](https://www.acmicpc.net/category/807) | [해설 링크](./2023%20January)   | ![](https://img.shields.io/static/v1?label=progress&message=100%&color=brightgreen) |
+| 2023 February | S4 S1 S3 | 그리디, 브루트포스                                    | [백준 링크](https://www.acmicpc.net/category/807) | [해설 링크](./2023%20February)  | ![](https://img.shields.io/static/v1?label=progress&message=67%&color=brightgreen)  |
+| 2023 January  | S1 S3 B1 | 그리디, 문자열, 브루트포스, 백트래킹                  | [백준 링크](https://www.acmicpc.net/category/834) | [해설 링크](./2023%20January)   | ![](https://img.shields.io/static/v1?label=progress&message=100%&color=brightgreen) |
 | 2022 December | S4 G4 G1 | 그리디, 정렬, 문자열, 시뮬레이션                      | [백준 링크](https://www.acmicpc.net/category/743) | [해설 링크](./2022%20December)  | ![](https://img.shields.io/static/v1?label=progress&message=100%&color=brightgreen) |
 | 2022 US Open  | G3 G5 G2 | 그리디, 애드 혹, 정렬, 스위핑, 그래프, 매개 변수 탐색 | [백준 링크](https://www.acmicpc.net/category/655) | [해설 링크](./2022%20US%20Open) | ![](https://img.shields.io/static/v1?label=progress&message=67%&color=brightgreen)  |
 | 2022 February | G3 G4 S4 | 브루트포스, 그리디, 누적합                            | [백준 링크](https://www.acmicpc.net/category/649) | [해설 링크](./2022%20February)  | ![](https://img.shields.io/static/v1?label=progress&message=66%&color=brightgreen)  |
