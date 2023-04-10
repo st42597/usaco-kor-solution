@@ -2,7 +2,7 @@
 
 | 대회 시즌     | 난이도   | 태그                                              | 백준                                              | 해설                           | 상태                                                                               |
 | ------------- | -------- | ------------------------------------------------- | ------------------------------------------------- | ------------------------------ | ---------------------------------------------------------------------------------- |
-| 2023 February | P4 G5 P5 | 이분 탐색, 그래프, 정렬, 다익스트라               | [백준 링크](https://www.acmicpc.net/category/834) | [해설 링크](./2023%20February) | ![](https://img.shields.io/static/v1?label=progress&message=33%&color=brightgreen) |
+| 2023 February | P4 G5 P5 | 이분 탐색, 그래프, 정렬, 다익스트라               | [백준 링크](https://www.acmicpc.net/category/834) | [해설 링크](./2023%20February) | ![](https://img.shields.io/static/v1?label=progress&message=67%&color=brightgreen) |
 | 2023 January  | G2 G1 G3 | 애드 혹, 다이나믹 프로그래밍, 그리디              | [백준 링크](https://www.acmicpc.net/category/807) | [해설 링크](./2023%20January)  | ![](https://img.shields.io/static/v1?label=progress&message=67%&color=brightgreen) |
 | 2022 December | P1 P3 G2 | 그래프, 다이나믹 프로그래밍, 수학, 애드혹         | [백준 링크](https://www.acmicpc.net/category/743) | 해설 링크                      |                                                                                    |
 | 2022 US Open  | G2 G1 G1 | 그래프, 최소 스패닝 트리, 애드 혹, 문자열, 누적합 | [백준 링크](https://www.acmicpc.net/category/655) | 해설 링크                      |                                                                                    |
